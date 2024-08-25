@@ -1,4 +1,4 @@
-MIT LICENCE
+Code under MIT LICENCE
 
 Copyright 2024 Mariem Touihri
 
